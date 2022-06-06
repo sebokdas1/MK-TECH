@@ -1,0 +1,7 @@
+.ad-container {
+    display: flex;
+}
+
+.ad-container img {
+    width: 350px;
+}

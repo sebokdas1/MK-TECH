@@ -1,0 +1,21 @@
+.ad {
+    color: #644F9C;
+}
+
+.ad-nav {
+    display: flex;
+    column-gap: 30px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.ad-nav li {
+    padding: 5px 10px;
+    border-radius: 10px;
+
+}
+
+.ad-nav li:hover {
+    background-color: #FF6F00;
+    color: white;
+}

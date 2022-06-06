@@ -1,5 +1,6 @@
 import React from 'react';
 import Advantage from './Advantage';
+import Advertise from './Advertise';
 import './Home.css';
 import Navbar from './Navbar';
 
@@ -22,6 +23,7 @@ const Home = () => {
                 </div>
             </div>
             <Advantage />
+            <Advertise />
         </div>
     );
 };
