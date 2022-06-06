@@ -3,6 +3,7 @@ import Advantage from './Advantage';
 import Advertise from './Advertise';
 import './Home.css';
 import Navbar from './Navbar';
+import Summary from './Summary';
 
 const Home = () => {
     return (
@@ -24,6 +25,7 @@ const Home = () => {
             </div>
             <Advantage />
             <Advertise />
+            <Summary />
         </div>
     );
 };
