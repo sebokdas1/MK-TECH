@@ -3,7 +3,7 @@ import './Summary.css'
 
 const Summary = () => {
     return (
-        <div className='mt-5 summary-container'>
+        <div className='mt-5 summary-container pb-5'>
             <h2 className='text-3xl text-center font-bold mb-12 pt-8 summary'>Summary</h2>
             <div className='advantage-content mt-12'>
                 <div className='advantage-second-container'>
