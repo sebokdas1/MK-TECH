@@ -1,9 +1,11 @@
 import React from 'react';
 import Advantage from './Advantage';
 import Advertise from './Advertise';
+import Footer from './Footer';
 import './Home.css';
 import Navbar from './Navbar';
 import Summary from './Summary';
+import Trending from './Trending';
 
 const Home = () => {
     return (
@@ -26,6 +28,8 @@ const Home = () => {
             <Advantage />
             <Advertise />
             <Summary />
+            <Trending />
+            <Footer />
         </div>
     );
 };
