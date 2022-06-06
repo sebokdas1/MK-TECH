@@ -1,0 +1,14 @@
+.top-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+
+}
+
+.home {
+    color: #FF6F00;
+}
+
+.hero-container {
+    /* background-color: #F2F2F2; */
+}

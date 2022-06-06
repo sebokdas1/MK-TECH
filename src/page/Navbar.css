@@ -1,0 +1,41 @@
+.nav-menu {
+    display: flex;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-menu li {
+    margin-right: 28px;
+    cursor: pointer;
+    padding: 0 5px;
+    border-radius: 3px;
+}
+
+.nav-menu li:hover {
+    background-color: gainsboro;
+}
+
+.login-btn {
+    /* background-color: #F2F2F2; */
+    padding: 5px;
+
+    border-radius: 20px;
+}
+
+.btn-content {
+    padding: 5px;
+}
+
+.login {
+    padding: 3px;
+}
+
+.signup {
+    background-color: #FF6F00;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 20px;
+}
